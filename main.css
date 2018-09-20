@@ -1,0 +1,113 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+p{
+    font-style: italic;
+}
+
+h2{
+    font-size: 56px;
+}
+
+.bio{
+    font-style: normal;
+    font-size: 24px;
+    margin: 50px;
+}
+
+.navbar{
+    background-color: rgb(37, 37, 37);
+    z-index: 10;
+    text-decoration: none;
+}
+
+.contacts{
+    border: 10px, solid, #9e9e9e6c;
+    border-radius: 4px; 
+}
+
+.welcome
+{
+    margin-top: 70px;
+}
+
+.myname{
+    margin: 0, 0;
+    font-size: 100px;
+    color: white;
+}
+
+.about-me-section{
+    background-color: rgb(141, 141, 141)
+}
+
+.jumbotron{
+    margin: 0;
+    border-radius: 0rem;
+    text-align: center;   
+}
+
+.mx-auto{
+    width: 200px;
+}
+
+.contact-section{
+    background-color: rgb(37, 37, 37);
+    height: 400px;
+}
+
+.white-text{
+    color:white;
+}
+
+.welcome-background{
+    background-image: url(IMG_0330.JPG);
+    background-size: 100%;
+    background-position-y: 75%;
+    background-color: #2727276c;
+    background-blend-mode: darken;
+    height: 500px;
+}
+
+.nav-btn{
+    color: white;
+    transition: .5s;
+    text-decoration: none;
+}
+
+.nav-btn:hover{
+    background-color: rgb(212, 212, 212);
+    color: black;
+    transition: .5s;
+    text-decoration: none;
+}
+
+.p-2{
+    text-decoration: none;
+}
+
+.p-2:hover{
+    text-decoration: none;
+}
+
+.project-images{
+    height: 250px;
+    width: 250px;
+}
+
+.project-thumbnails{
+    margin: 40px;
+}
+
+.home{
+    color:white;
+}
+
+.contact-options{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
