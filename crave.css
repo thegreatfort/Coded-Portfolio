@@ -1,5 +1,114 @@
+h2{
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar{
+    background-color: rgb(37, 37, 37);
+}
+
+.home{
+    color: white
+}
+
+.home:hover{
+    color: #FBDB7D;
+}
 .jumbotron{
     margin: 0;
     border-radius: 0rem;
     text-align: center;   
+}
+
+.splash{
+    background-color: #FBDB7D;
+}
+
+.cravelogo{
+    height: 375px;
+    width: 350px;
+}
+
+.description{
+    background-color: white;
+}
+
+.white-text{
+    color: white;
+}
+
+.details{
+    margin: 10%;
+    margin-top: 0;
+}
+
+.statment{
+    height: 80%;
+    width: 80%;
+}
+
+.mission{
+    background-color: #FBDB7D;
+}
+
+.data{
+    background-color: white;
+}
+.survey1{
+    height:80%;
+    width: 80%;
+}
+
+.survey2{
+    height: 55%;
+    width: 55%;
+}
+.docs{
+    background-color: rgb(180, 180, 180);
+}
+.docs-pages{
+    height:80%;
+    width: 80%;
+    margin-top: 20px;
+}
+
+.lofi{
+    background-color: white;
+}
+
+.frames{
+    height:80%;
+    width: 80%;
+    margin-top: 20px;
+}
+
+.contact-options{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
+.contact-section{
+    background-color: rgb(37, 37, 37);
+    height: 400px;
+}
+
+.hifi{
+    margin: 0;
+    background-color: #93C47D;
+}
+
+.userflows{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.flows{
+    background-color: #93C47D;
+}
+
+.flow-image{
+    height: 80%;
+    width: 80%;
+    margin: 20px;
 }
