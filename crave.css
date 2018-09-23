@@ -1,5 +1,6 @@
 h2{
     font-family: 'Raleway', sans-serif;
+    margin: 20px;
 }
 
 .navbar{
@@ -39,6 +40,11 @@ h2{
 .details{
     margin: 10%;
     margin-top: 0;
+}
+
+.details-topmargin{
+    margin: 10%;
+    margin-top: 50px;
 }
 
 .statment{
@@ -111,4 +117,36 @@ h2{
     height: 80%;
     width: 80%;
     margin: 20px;
+}
+
+.flow-gif1{
+    height: 25%;
+    width: 25%;
+}
+
+.flow-process-1{
+    height:70%;
+    width: 70%;
+    margin: 20px;   
+}
+
+.description{
+    height: 600px;
+    background-image: url(Description-Backdrop.png);
+    background-size: 100%;
+    background-position-y: 25%;
+}
+
+.nav-btn{
+    color: white;
+    text-decoration: none;
+}
+
+.nav-btn:hover{
+    color: #FBDB7D;
+    text-decoration: none;
+}
+
+.p-t:hover{
+    text-decoration: none;
 }
