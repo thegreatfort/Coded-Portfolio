@@ -1,0 +1,38 @@
+.jumbotron{
+    text-align: center;
+    margin: 0;
+    border-radius: 0;
+}
+
+.splash{
+    background-color: rgb(27, 27, 27);
+}
+
+.white-text{
+    color:white;
+}
+
+.splash-text{
+    font-family: railway, sans-serif;
+}
+
+.description{
+    background-color: rgb(27, 27, 27)
+}
+
+.example{
+    background-color: #D0CFCE;
+    
+}
+
+.data{
+    background-color: #D0CFCE;
+}
+
+.contact-section{
+    background-color: black;
+}
+
+.lofi{
+    background-color: black;
+}

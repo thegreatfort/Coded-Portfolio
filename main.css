@@ -99,6 +99,7 @@ h2{
 
 .project-thumbnails{
     margin: 40px;
+    display: inline-block;
 }
 
 .home{
