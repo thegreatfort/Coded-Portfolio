@@ -3,6 +3,10 @@ h2{
     margin: 20px;
 }
 
+h1, h2, h3, h4, .home, .nav-btn {
+    font-family: 'Raleway', sans-serif;
+}
+
 .navbar{
     background-color: rgb(37, 37, 37);
 }
@@ -24,9 +28,9 @@ h2{
     background-color: #FBDB7D;
 }
 
-.cravelogo{
-    height: 375px;
-    width: 350px;
+.Cravelogo{
+    height: 325px;
+    width: 300px;
 }
 
 .description{
