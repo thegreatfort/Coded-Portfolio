@@ -36,3 +36,31 @@
 .lofi{
     background-color: black;
 }
+
+.docs-imagess{
+    height: 80%;
+    width: 80%;
+}
+ .journey{
+     height: 70%;
+     width: 70%;
+ }
+.statement{
+    margin: 50px;
+}
+
+.frames{
+    height: 80%;
+    width: 80%;
+}
+
+.ani-flows{
+    height: 30%;
+    width: 30%;
+}
+
+.ani-gifs{
+    height: 30%;
+    width: 30%;
+    display: inline-block;
+}
