@@ -2,6 +2,23 @@ h1, h2, h3, h4, .home, .nav-btn {
     font-family: 'Raleway', sans-serif;
 }
 
+.navbar{
+    background-color: rgb(37, 37, 37);
+}
+
+.nav-btn, .home{
+    color: white;
+    transition: .5s;
+    text-decoration: none;
+}
+
+.nav-btn:hover, .home:hover{
+    background-color: rgb(212, 212, 212);
+    color: black;
+    transition: .5s;
+    text-decoration: none;
+}
+
 .jumbotron{
     text-align: center;
     margin: 0;

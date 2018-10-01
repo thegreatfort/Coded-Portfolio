@@ -15,9 +15,13 @@ h1, h2, h3, h4, .home, .nav-btn {
     color: white
 }
 
-.home:hover{
-    color: #FBDB7D;
+.nav-btn:hover, .home:hover{
+    background-color: #FBDB7D;
+    color: black;
+    transition: .5s;
+    text-decoration: none;
 }
+
 .jumbotron{
     margin: 0;
     border-radius: 0rem;
@@ -138,11 +142,6 @@ h1, h2, h3, h4, .home, .nav-btn {
 
 .nav-btn{
     color: white;
-    text-decoration: none;
-}
-
-.nav-btn:hover{
-    color: #FBDB7D;
     text-decoration: none;
 }
 

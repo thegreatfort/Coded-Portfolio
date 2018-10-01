@@ -81,7 +81,7 @@ h2{
     text-decoration: none;
 }
 
-.nav-btn:hover{
+.nav-btn:hover, .home:hover{
     background-color: rgb(212, 212, 212);
     color: black;
     transition: .5s;
