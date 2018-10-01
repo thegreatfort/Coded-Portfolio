@@ -134,12 +134,7 @@ h1, h2, h3, h4, .home, .nav-btn {
     margin: 20px;   
 }
 
-.description{
-    height: 600px;
-    background-image: url(Description-Backdrop.png);
-    background-size: 100%;
-    background-position-y: 25%;
-}
+
 
 .nav-btn{
     color: white;
