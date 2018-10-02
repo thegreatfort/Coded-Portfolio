@@ -77,8 +77,8 @@ h1, h2, h3, h4, .home, .nav-btn {
 }
 
 .ani-flows{
-    height: 30%;
-    width: 30%;
+    height: 25%;
+    width: 25%;
 }
 
 .ani-gifs{
@@ -100,3 +100,10 @@ h1, h2, h3, h4, .home, .nav-btn {
 .heading{
     font-size: 64px;
 }
+
+.flow-doc{
+    height: 60%;
+    width: 60%;
+    margin: 20px;
+}
+
