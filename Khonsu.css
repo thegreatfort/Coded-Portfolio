@@ -63,12 +63,28 @@ h1, h2, h3, h4, .home, .nav-btn {
     height: 80%;
     width: 80%;
 }
+
+.logo{
+    margin-top:-50px;
+}
  .journey{
      height: 70%;
      width: 70%;
  }
+.blurb{
+    margin: 100px;
+    margin-bottom: 0;
+    margin-top: -50px;
+}
+
 .statement{
     margin: 100px;
+
+}
+.title{
+    font-size: 500%;
+    text-decoration: bold;
+    margin-bottom: 50px;
 }
 
 .frames{
