@@ -68,7 +68,7 @@ h2{
 
 .welcome-background{
     background-image: url(index/Images/IMG_0330.JPG);
-    background-size: 100%;
+    background-size: cover;
     background-position-y: 75%;
     background-color: #2727276c;
     background-blend-mode: darken;
