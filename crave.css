@@ -7,6 +7,11 @@ h1, h2, h3, h4, .home, .nav-btn {
     font-family: 'Raleway', sans-serif;
 }
 
+.menu-btn{
+    background-color: #FBDB7D;
+    color: black;
+}
+
 .navbar{
     background-color: rgb(37, 37, 37);
 }

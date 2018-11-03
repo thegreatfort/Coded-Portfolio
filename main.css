@@ -27,6 +27,11 @@ h2{
     text-decoration: none;
 }
 
+.menu-btn{
+    background-color:rgb(212, 212, 212);
+    color: rgb(37, 37, 37);
+}
+
 .contacts{
     border: 10px, solid, #9e9e9e6c;
     border-radius: 4px; 
