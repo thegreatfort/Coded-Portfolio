@@ -39,6 +39,7 @@ h1, h2, h3, h4, .home, .nav-btn {
 }
 
 .splash-text{
+    margin-top: 20px;
     font-family: railway, sans-serif;
 }
 
