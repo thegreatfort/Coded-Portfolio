@@ -1,0 +1,68 @@
+h1, h2, h3, h4, p, .nav-btn, .home{
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar{
+    background-color: rgb(37, 37, 37);
+    z-index: 10;
+    text-decoration: none;
+}
+
+.nav-btn:hover, .home:hover{
+    background-color: rgb(212, 212, 212);
+    color: black;
+    transition: .5s;
+    text-decoration: none;
+}
+
+.menu-btn{
+    background-color:rgb(212, 212, 212);
+    color: rgb(37, 37, 37);
+}
+
+.contacts{
+    border: 10px, solid, #9e9e9e6c;
+    border-radius: 4px; 
+}
+
+
+.contact-options{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
+.jumbotron{
+    margin: 0;
+    border-radius: 0rem;
+    text-align: center;   
+}
+
+.contact-section{
+    background-color: rgb(37, 37, 37);
+    height: 400px;
+}
+
+.white-text{
+    color:white;
+}
+
+.splash{
+    background-color: #F6A10D;
+}
+
+.splash-image{
+    height: 25%;
+    width: 25%;
+}
+
+.heading{
+    margin-top:50px;
+    font-size:500%
+}
+
+.designDoc{
+    height: 80%;
+    width: 80%;
+    margin: 10px;
+}
