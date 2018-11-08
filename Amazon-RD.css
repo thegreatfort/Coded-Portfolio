@@ -1,4 +1,13 @@
-h1, h2, h3, h4, p, .nav-btn, .home{
+h1, h2, h3, h4, p{
+    font-family: 'Roboto', sans-serif;
+}
+
+.home{
+    padding:10px;
+    border-radius: 5px;
+}
+
+.nav-btn{
     font-family: 'Raleway', sans-serif;
 }
 
@@ -48,12 +57,13 @@ h1, h2, h3, h4, p, .nav-btn, .home{
 }
 
 .splash{
-    background-color: #F6A10D;
+    background-color: #232f3e;
 }
 
 .splash-image{
-    height: 25%;
-    width: 25%;
+    height: 70%;
+    width: 70%;
+    margin-top: 100px;
 }
 
 .heading{
@@ -62,7 +72,37 @@ h1, h2, h3, h4, p, .nav-btn, .home{
 }
 
 .designDoc{
+    height: 60%;
+    width: 60%;
+    margin: 10px;
+}
+
+.statement{
+    height: 70%;
+    width: 70%;;
+}
+
+.mission-statement{
+    background-color: #14293F;
+}
+
+.data-doc{
     height: 80%;
     width: 80%;
-    margin: 10px;
+}
+
+.data{
+    background-color: #14293F;
+}
+
+.example{
+    background-color: #F49E37;
+}
+
+.lofi{
+    background-color: #14293F;
+}
+
+.flows{
+    background-color: #F49E37;
 }
