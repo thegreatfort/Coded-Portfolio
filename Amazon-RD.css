@@ -8,6 +8,10 @@ h1, h2, h3, h4, p{
     border-radius: 5px;
 }
 
+.title{
+    margin: 20px;
+}
+
 .nav-btn{
     font-family: 'Raleway', sans-serif;
 }
