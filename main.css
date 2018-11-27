@@ -64,7 +64,12 @@ h2{
 
 .contact-section{
     background-color: rgb(37, 37, 37);
-    height: 400px;
+
+}
+
+.email-form{
+    background-color: rgb(37, 37, 37); 
+    padding: 20px;
 }
 
 .white-text{
@@ -107,7 +112,6 @@ h2{
     transition: 0.5s;
     text-decoration: none;
 }
-
 
 
 .project-thumbnails{

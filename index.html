@@ -62,16 +62,35 @@
         <a id="about-me"><div class="jumbotron about-me-section"></a>
             <div>
                 <h2 class="white-text">About Me</h2>
-                <p class="white-text bio">I am a highly motivated UX/UI designer, game developer, martial artist, chicken wrangler, amatuer chef, and comic book enthusiast. An Austin Texas native with a passion for innovative streamlined user experiences with a depth of knowledge from several different career fields like live events, theater, office administration, and video game development. I enjoy problem-solving and being able to bring creative solutions to create innovative design and function.</p>
+                <p class="white-text bio">I am a UX/UI designer, game developer, martial artist, chicken wrangler, amatuer chef, and comic book enthusiast. An Austin Texas native with a passion for innovative streamlined user experiences with a depth of knowledge from several different career fields like live events, theater, office administration, and video game development. I enjoy problem-solving and being able to bring creative solutions to create innovative design and function.</p>
             </div>
         </div>
         <a id="contact"><div class="jumbotron contact-section"></a>
-                <h2 class="white-text">Contact</h2>
-                
-                    <a href= "mailto:thegreatfort@gmail.com" target="blank"><img src="index/Images/email-icon.png" class="contact-options"/></a>
-                    <a href="https://www.linkedin.com/in/thegreatfort/" target="blank"><img src="index/Images/linkedinicon.png" class="contact-options"/></a>
-                    <a href="https://twitter.com/TheGreatFort" target="blank"><img src="index/Images/twittericon.png"class="contact-options"/></a>
-                    <a href="https://github.com/thegreatfort" target="blank"><img src="index/Images/githubicon.png"class="contact-options"/></a>
+                <div class="container">
+                    <form method="POST" action="https://formspree.io/dgarrison247@gmail.com" class="email-form">
+                        <h1 style="text-align:center;" class="white-text"> Contact </h1>
+                    
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Email address</label>
+                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                        </div>
+                    
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                            <span class="input-group-text">Message</span>
+                            </div>
+                            <textarea  name="message" placeholder="Test Message" style="height: 200px; width: 100%;"></textarea>
+                        </div>
+                        <br>
+
+                        <button type="submit" class="btn btn-primary"> Send Message </button>
+                    </form>
+                </div>
+                <!-- <a href= "mailto:thegreatfort@gmail.com" target="blank"><img src="index/Images/email-icon.png" class="contact-options"/></a> -->
+                <a href="https://www.linkedin.com/in/thegreatfort/" target="blank"><img src="index/Images/linkedinicon.png" class="contact-options"/></a>
+                <a href="https://twitter.com/TheGreatFort" target="blank"><img src="index/Images/twittericon.png"class="contact-options"/></a>
+                <a href="https://github.com/thegreatfort" target="blank"><img src="index/Images/githubicon.png"class="contact-options"/></a>
                
         </div>
 </body>
