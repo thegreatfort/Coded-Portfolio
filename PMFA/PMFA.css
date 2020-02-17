@@ -1,0 +1,183 @@
+h2{
+    font-family: 'Raleway', sans-serif;
+    margin: 20px;
+}
+
+h1, h2, h3, h4, .home, .nav-btn {
+    font-family: 'Raleway', sans-serif;
+}
+
+.menu-btn{
+    background-color: #50bc86;
+    color: black;
+}
+
+.navbar{
+    background-color: rgb(37, 37, 37);
+}
+
+.research_title{
+    color: white;
+}
+
+.home{
+    color: white
+}
+
+.testimonials{
+    height: 50%;
+    width: 50%;
+
+}
+
+.researchimg{
+    height: 50%;
+    width:50%;
+}
+
+.scout_Title{
+    font-weight: bold;
+    font-size: 72px;
+    font-family: 'Montserrat';
+}
+
+.researchstats{
+    height:50%;
+    width: 50%;
+}
+
+.nav-btn:hover, .home:hover{
+    background-color: #50bc86;
+    color: black;
+    transition: .5s;
+    text-decoration: none;
+}
+
+.jumbotron{
+    margin: 0;
+    border-radius: 0rem;
+    text-align: center;   
+}
+
+.splash{
+    background-color: #50bc86;
+}
+
+.Cravelogo{
+    margin-top:100px;
+    height: 325px;
+    width: 300px;
+}
+
+.description{
+    background-color: white;
+}
+
+.white-text{
+    color: white;
+}
+
+.details{
+    margin: 10%;
+    margin-top: 100px;
+    color: white;
+}
+
+.details-topmargin{
+    margin: 10%;
+    margin-top: 50px;
+}
+
+.statment{
+    height: 80%;
+    width: 80%;
+}
+
+.mission{
+    background-color: #50bc86;
+}
+
+.data{
+    background-color: white;
+}
+.survey1{
+    height:80%;
+    width: 80%;
+}
+
+.survey2{
+    height: 55%;
+    width: 55%;
+}
+.docs{
+    background-color: rgb(180, 180, 180);
+}
+.docs-pages{
+    height:80%;
+    width: 80%;
+    margin-top: 20px;
+}
+
+.lofi{
+    background-color: white;
+}
+
+.frames{
+    height:80%;
+    width: 80%;
+    margin-top: 20px;
+}
+
+.contact-options{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
+.contact-section{
+    background-color: rgb(37, 37, 37);
+    height: 400px;
+}
+
+.hifi{
+    margin: 0;
+    background-color: #50bc86;
+}
+
+.userflows{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.flows{
+    background-color: #50bc86;
+}
+
+.flow-image{
+    height: 80%;
+    width: 80%;
+    margin: 20px;
+}
+
+.flow-gif1{
+    height: 25%;
+    width: 25%;
+}
+
+.flow-process-1{
+    height:70%;
+    width: 70%;
+    margin: 20px;   
+}
+
+
+
+.nav-btn{
+    color: white;
+    text-decoration: none;
+}
+
+.p-t:hover{
+    text-decoration: none;
+}
