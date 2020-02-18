@@ -8,7 +8,7 @@ h1, h2, h3, h4, .home, .nav-btn {
 }
 
 .menu-btn{
-    background-color: #50bc86;
+    background-color: #3B5C7D;
     color: black;
 }
 
@@ -47,10 +47,14 @@ h1, h2, h3, h4, .home, .nav-btn {
 }
 
 .nav-btn:hover, .home:hover{
-    background-color: #50bc86;
+    background-color: #6DEDD8;
     color: black;
     transition: .5s;
     text-decoration: none;
+}
+
+.green-bgnd{
+    background-color: #6DEDD8;
 }
 
 .jumbotron{
@@ -60,13 +64,13 @@ h1, h2, h3, h4, .home, .nav-btn {
 }
 
 .splash{
-    background-color: #50bc86;
+    background-color: #3B5C7D;
 }
 
 .Cravelogo{
-    margin-top:100px;
-    height: 325px;
-    width: 300px;
+    margin-top:200px;
+    height: 30%;
+    width: 30%;
 }
 
 .description{
@@ -94,7 +98,7 @@ h1, h2, h3, h4, .home, .nav-btn {
 }
 
 .mission{
-    background-color: #50bc86;
+    background-color: #6DEDD8;
 }
 
 .data{
@@ -115,7 +119,8 @@ h1, h2, h3, h4, .home, .nav-btn {
 .docs-pages{
     height:80%;
     width: 80%;
-    margin-top: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .lofi{
@@ -141,7 +146,7 @@ h1, h2, h3, h4, .home, .nav-btn {
 
 .hifi{
     margin: 0;
-    background-color: #50bc86;
+    background-color: #3B5C7D;
 }
 
 .userflows{
@@ -151,7 +156,7 @@ h1, h2, h3, h4, .home, .nav-btn {
 }
 
 .flows{
-    background-color: #50bc86;
+    background-color: #6DEDD8;
 }
 
 .flow-image{
@@ -171,7 +176,11 @@ h1, h2, h3, h4, .home, .nav-btn {
     margin: 20px;   
 }
 
-
+.oldshots{
+    height: 40%;
+    width:40%;
+    margin: 20px;
+}
 
 .nav-btn{
     color: white;
@@ -180,4 +189,25 @@ h1, h2, h3, h4, .home, .nav-btn {
 
 .p-t:hover{
     text-decoration: none;
+}
+
+.white-bgnd{
+background-color: white;
+}
+
+.IAflows{
+    height:50%;
+    width: 50%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.flowd{
+    height: 50%;
+    width: 50%;
+}
+
+.flowd2{
+    height: 25%;
+    width: 25%;
 }
