@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Artboard Copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard-Copy-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#3B5C7D" x="0" y="0" width="500" height="500"></rect>
+        <g id="Tools-/-Technology-/-laptop-/-32" transform="translate(88.000000, 0.000000)" fill="#FFFFFF">
+            <path d="M263.25,243.050625 L60.75,243.050625 C49.5708607,243.039463 40.5111624,233.979764 40.5,222.800625 L40.5,81.050625 C40.5111624,69.8714857 49.5708607,60.8117874 60.75,60.800625 L263.25,60.800625 C274.429139,60.8117874 283.488838,69.8714857 283.5,81.050625 L283.5,222.800625 C283.483272,233.977455 274.42683,243.033897 263.25,243.050625 L263.25,243.050625 Z M60.75,81.050625 L60.75,222.800625 L263.25,222.800625 L263.25,81.050625 L60.75,81.050625 Z M20.25,263.300625 L303.75,263.300625 L303.75,283.550625 L20.25,283.550625 L20.25,263.300625 Z" id="Fill"></path>
+        </g>
+        <g id="Actions-/-Toggle-/-locked-/-24" transform="translate(200.000000, 104.000000)" fill="#FFFFFF">
+            <path d="M75,43.75 L68.75,43.75 L68.75,25 C68.75,14.6446609 60.3553391,6.25 50,6.25 C39.6446609,6.25 31.25,14.6446609 31.25,25 L31.25,43.75 L25,43.75 C21.5482203,43.75 18.75,46.5482203 18.75,50 L18.75,87.5 C18.75,90.9517797 21.5482203,93.75 25,93.75 L75,93.75 C78.4517797,93.75 81.25,90.9517797 81.25,87.5 L81.25,50 C81.25,46.5482203 78.4517797,43.75 75,43.75 Z M37.5,25 C37.5,18.0964406 43.0964406,12.5 50,12.5 C56.9035594,12.5 62.5,18.0964406 62.5,25 L62.5,43.75 L37.5,43.75 L37.5,25 Z M75,87.5 L25,87.5 L25,50 L75,50 L75,87.5 Z" id="Fill"></path>
+        </g>
+        <text id="PMFA" font-family="IBMPlexSans-BoldItalic, IBM Plex Sans" font-size="72" font-style="italic" font-weight="bold" fill="#FFFFFF">
+            <tspan x="154" y="411">PMFA</tspan>
+        </text>
+    </g>
+</svg>
